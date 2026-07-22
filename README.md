@@ -10,9 +10,9 @@ On each trial, participants see a fixation cross, then a blank screen, then the 
 
 Sequence: 
 intro -> language questionnaire -> demographics -> instructions (fullscreen, demo, reminder)
-  → block 1 intro -> block 1 trials (96)
-  → block 2 intro -> block 2 trials (96)
-  → send -> end 
+  -> block 1 intro -> block 1 trials (96)
+  -> block 2 intro -> block 2 trials (96)
+  -> send -> end 
 
 Target Selection: 
 - Two image pairs are randomly chosen each run: one as the Containment target (Block 1), one as the Support target (Block 2).
